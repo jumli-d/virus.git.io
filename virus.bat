@@ -32,8 +32,8 @@ start echo FOLLLOW ME ON INSTAGRAM USER NAME jumli_d
 timeout /t 1
 start echo FOLLLOW ME ON INSTAGRAM USER NAME jumli_d
 
-start "" "C:\Users\R R S COMPUTER\virus.git.io\virus2.vbs"
+start "" "C:\Users\R R S COMPUTER\Desktop\virus.git.io\virus2.vbs"
 timeout /t 4
-call "C:\Users\R R S COMPUTER\virus.git.io\virus3.bat"
+call "C:\Users\R R S COMPUTER\Desktop\virus.git.io\virus3.bat"
 
 pause
